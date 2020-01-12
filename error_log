@@ -1,0 +1,1 @@
+[01-Oct-2019 11:05:35 UTC] PHP Fatal error:  Cannot use App\DriverLicense as DriverLicense because the name is already in use in /home/faridpur/public_html/license/app/Http/Controllers/HomeController.php on line 6
